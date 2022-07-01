@@ -1,0 +1,9 @@
+use fastx to login...
+
+web interface:http://login18-x-1.hpc.itc.rwth-aachen.de:3000/
+or direct client... works better for me (keyboard layout)
+
+sciebo for huge data:
+
+github for programming:
+- add ssh key of cluster account to your github.com account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
